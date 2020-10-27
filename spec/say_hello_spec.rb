@@ -17,3 +17,5 @@ describe "say_hello" do
   end
 
 end
+
+say_hello("Kent Beck")
