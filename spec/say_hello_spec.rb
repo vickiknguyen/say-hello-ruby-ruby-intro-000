@@ -13,4 +13,3 @@ describe "say_hello" do
   end
 
 end
-
